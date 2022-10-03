@@ -1,0 +1,6 @@
+.DS_Store
+
+.solid/
+
+dist/
+node_modules/
